@@ -1,4 +1,4 @@
-![img_1.png](img_1.png)
+![img_1.png](src/img_1.png)
 ### 참고한 책
 ## chap01 - 기본 알고리즘   
     01-1. 알고리즘이란?
