@@ -31,7 +31,7 @@ public class Bj10809_알파벳찾기 {
             arr[i] = -1;
         }
 
-
+        /*
         List<Integer> intList = new ArrayList<>();
         for (int i = 0; i < smallLetter.length(); i++) {
             char c = smallLetter.charAt(i);
@@ -52,5 +52,7 @@ public class Bj10809_알파벳찾기 {
         for (int i = 0; i < intList.size(); i++) {
             System.out.print(intList.get(i) + " ");
         }
+
+         */
     }
 }
