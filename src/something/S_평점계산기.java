@@ -43,7 +43,7 @@ public class S_평점계산기 {
             }
 
         }
-        sum = sum/ (A.length-2);
+        sum = (int) (sum/ Math.round((A.length-2)*10/10.0));
 
 
 
